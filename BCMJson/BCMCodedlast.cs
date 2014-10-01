@@ -58,6 +58,8 @@ namespace BCMJson {
             Proxy = "default";
         }
         
+        //lol
+
         public override IEnumerator<WebTestRequest> GetRequestEnumerator() {
 
             System.Net.ServicePointManager.Expect100Continue = false;
