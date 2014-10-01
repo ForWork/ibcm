@@ -58,7 +58,6 @@ namespace BCMJson {
             Proxy = "default";
         }
         
-        //lolsss
 
         public override IEnumerator<WebTestRequest> GetRequestEnumerator() {
 
