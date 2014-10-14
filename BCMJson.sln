@@ -7,6 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BCMJson", "BCMJson\BCMJson.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{245E823D-8854-4883-8364-8A3DBE679687}"
 	ProjectSection(SolutionItems) = preProject
+		Distributed.testsettings = Distributed.testsettings
 		Local.testsettings = Local.testsettings
 	EndProjectSection
 EndProject
